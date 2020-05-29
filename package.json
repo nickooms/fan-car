@@ -1,0 +1,25 @@
+{
+  "name": "fan-car",
+  "version": "1.0.0",
+  "description": "Browser based 3D Racing game with fan-car (Brabham BT46B, Chaparral 2J) style physics for maximum VR/AR based adrenaline rush.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickooms/fan-car.git"
+  },
+  "keywords": [
+    "3D",
+    "Game",
+    "Racing",
+    "Fan-Car"
+  ],
+  "author": "nickooms",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickooms/fan-car/issues"
+  },
+  "homepage": "https://github.com/nickooms/fan-car#readme"
+}
